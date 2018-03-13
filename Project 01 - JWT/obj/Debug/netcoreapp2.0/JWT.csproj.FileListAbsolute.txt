@@ -1,0 +1,11 @@
+C:\Users\Abraão\Desktop\Abraao\estudos\netcore2-jwt-master\JWT1\bin\Debug\netcoreapp2.0\JWT.deps.json
+C:\Users\Abraão\Desktop\Abraao\estudos\netcore2-jwt-master\JWT1\bin\Debug\netcoreapp2.0\JWT.runtimeconfig.json
+C:\Users\Abraão\Desktop\Abraao\estudos\netcore2-jwt-master\JWT1\bin\Debug\netcoreapp2.0\JWT.runtimeconfig.dev.json
+C:\Users\Abraão\Desktop\Abraao\estudos\netcore2-jwt-master\JWT1\bin\Debug\netcoreapp2.0\JWT.dll
+C:\Users\Abraão\Desktop\Abraao\estudos\netcore2-jwt-master\JWT1\bin\Debug\netcoreapp2.0\JWT.pdb
+C:\Users\Abraão\Desktop\Abraao\estudos\netcore2-jwt-master\JWT1\obj\Debug\netcoreapp2.0\JWT.csprojResolveAssemblyReference.cache
+C:\Users\Abraão\Desktop\Abraao\estudos\netcore2-jwt-master\JWT1\obj\Debug\netcoreapp2.0\JWT.csproj.CoreCompileInputs.cache
+C:\Users\Abraão\Desktop\Abraao\estudos\netcore2-jwt-master\JWT1\obj\Debug\netcoreapp2.0\JWT.AssemblyInfoInputs.cache
+C:\Users\Abraão\Desktop\Abraao\estudos\netcore2-jwt-master\JWT1\obj\Debug\netcoreapp2.0\JWT.AssemblyInfo.cs
+C:\Users\Abraão\Desktop\Abraao\estudos\netcore2-jwt-master\JWT1\obj\Debug\netcoreapp2.0\JWT.dll
+C:\Users\Abraão\Desktop\Abraao\estudos\netcore2-jwt-master\JWT1\obj\Debug\netcoreapp2.0\JWT.pdb
