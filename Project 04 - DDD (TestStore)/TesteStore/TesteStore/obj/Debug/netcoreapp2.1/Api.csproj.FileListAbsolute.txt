@@ -1,0 +1,14 @@
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\TesteStore\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\TesteStore\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\TesteStore\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\TesteStore\bin\Debug\netcoreapp2.1\Api.dll
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\TesteStore\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\TesteStore\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\TesteStore\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\TesteStore\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\TesteStore\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\TesteStore\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\TesteStore\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\TesteStore\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\TesteStore\obj\Debug\netcoreapp2.1\Api.dll
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\TesteStore\obj\Debug\netcoreapp2.1\Api.pdb
