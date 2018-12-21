@@ -1,0 +1,14 @@
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp2.1\UnitTestSample.deps.json
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp2.1\UnitTestSample.runtimeconfig.json
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp2.1\UnitTestSample.runtimeconfig.dev.json
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp2.1\UnitTestSample.dll
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp2.1\UnitTestSample.pdb
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp2.1\UnitTestSample.csprojAssemblyReference.cache
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp2.1\UnitTestSample.csproj.CoreCompileInputs.cache
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp2.1\UnitTestSample.AssemblyInfoInputs.cache
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp2.1\UnitTestSample.AssemblyInfo.cs
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp2.1\UnitTestSample.dll
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp2.1\UnitTestSample.pdb

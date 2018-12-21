@@ -1,0 +1,9 @@
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Abraão\Documents\git\dotNet-trainning\Project 02 - Unit test\TesteStore\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
