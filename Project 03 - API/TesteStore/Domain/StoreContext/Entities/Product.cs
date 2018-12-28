@@ -22,6 +22,11 @@ namespace TesteStore.Domain.StoreContext.Entities
         public decimal Price { get; private set; }
         public decimal QuantityOnHand { get; private set; }
 
+
+        public void DecreaseQuantity(decimal quantity)
+        {
+            this.QuantityOnHand -= quantity;
+        }
         public override string ToString()
         {
             return Title;

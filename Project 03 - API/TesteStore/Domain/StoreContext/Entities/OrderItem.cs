@@ -13,6 +13,8 @@ namespace TesteStore.Domain.StoreContext.Entities
 
             if (product.QuantityOnHand < quantity)
                 AddNotification("Quantity", "Prooduto fora de estoque");
+
+            product.DecreaseQuantity(quantity);
         }
 
         public Product Product { get; private set; }
