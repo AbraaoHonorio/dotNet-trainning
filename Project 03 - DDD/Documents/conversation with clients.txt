@@ -1,7 +1,0 @@
-- O usuário acessar o site
-- Visualiza o catágolo de produtos
-- Adiciona produtos ao carrinho
-- Fecha o pedido
-- Gera Nota Fiscal
-- Separao o pedido para entrega
-- Despacha o Pedido
