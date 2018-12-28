@@ -65,7 +65,6 @@ namespace TesteStore.Domain.StoreContext.Entities
         public void Ship()
         {
             var deliveries = new List<Delivery>();
-            deliveries.Add(new Delivery(DateTime.Now.AddDays(5)));
 
             // validação - A cada 5 produtos é uma entrega 
             var count = 1;
@@ -74,8 +73,9 @@ namespace TesteStore.Domain.StoreContext.Entities
                 if(count == 5)
                 {
                     count = 1;
-                    
+                    deliveries.Add(new Delivery(DateTime.Now.AddDays(5)));
                 }
+                count++;
 
             }
             // Envia todas as entregas
