@@ -22,7 +22,7 @@ namespace TesteStore.Tests.Entities
             var name = new Name("Abraao", "Allysson dos Santos Honório");
             var document = new Document("228.750.270-00");
             var email = new Email("abraao.allyson@eng.ci.ufpb.br");
-            var phone = new CellPhone("(83) 98747 - 7358");
+            var phone = new CellPhone("(83) 98747-7358");
             this._customer = new Customer(name, document, email, phone);
 
             this._order = new Order(this._customer);
@@ -35,6 +35,12 @@ namespace TesteStore.Tests.Entities
                                    "impressora.png", 100.00M, 10);
             this._chair = new Product("Cadeira", "Cadeira gamer",
                                   "Cadeira.png", 100.00M, 10);
+        }
+
+        public Order CreateOrder(string command)
+        {
+            // CreateOrderCommand
+            return this._order; 
         }
         // Consigo criar um novo pedido
         [TestMethod]
