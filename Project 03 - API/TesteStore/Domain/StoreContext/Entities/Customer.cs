@@ -1,10 +1,11 @@
 ﻿using FluentValidator;
 using System.Collections.Generic;
 using TesteStore.Domain.StoreContext.ValueObjects;
+using TesteStore.Shared.Entities;
 
 namespace TesteStore.Domain.StoreContext.Entities
 {
-    public class Customer : Notifiable
+    public class Customer : Entity
     {
 
         private readonly List<Address> _addresses;

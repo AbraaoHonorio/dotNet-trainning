@@ -1,9 +1,10 @@
 ﻿using System;
 using TesteStore.Domain.StoreContext.Enums;
+using TesteStore.Shared.Entities;
 
 namespace TesteStore.Domain.StoreContext.Entities
 {
-    public class Delivery
+    public class Delivery : Entity
     {
         public Delivery(DateTime estimatedDeliveryDate)
         {

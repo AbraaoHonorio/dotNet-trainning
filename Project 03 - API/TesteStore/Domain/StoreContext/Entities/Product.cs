@@ -1,7 +1,9 @@
 ﻿
+using TesteStore.Shared.Entities;
+
 namespace TesteStore.Domain.StoreContext.Entities
 {
-    public class Product
+    public class Product : Entity
     {
         public Product(
             string title,
