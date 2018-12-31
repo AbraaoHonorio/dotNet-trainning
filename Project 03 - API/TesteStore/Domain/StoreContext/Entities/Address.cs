@@ -1,8 +1,9 @@
 ﻿using TesteStore.Domain.StoreContext.Enums;
+using TesteStore.Shared.Entities;
 
-namespace TesteStore.Domain.StoreContext.ValueObjects
+namespace TesteStore.Domain.StoreContext.Entities
 {
-    public class Address
+    public class Address : Entity
     {
 
         public Address(
