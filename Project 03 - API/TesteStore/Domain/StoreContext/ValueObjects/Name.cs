@@ -21,7 +21,7 @@ namespace TesteStore.Domain.StoreContext.ValueObjects
                 .HasMinLen(firstName, 3, "FirstName", "Nome deve conter pelo menos 3 caracteres")
                 .HasMaxLen(firstName, 50, "FirstName", "Nome deve conter no máximo 50 caracteres")
                 .HasMinLen(lastName, 3, "LastName", "Sobrenome deve conter pelo menos 3 caracteres")
-                .HasMinLen(firstName, 150, "LastName", "Sobrenome deve conter no máximo 150 caracteres")
+                .HasMaxLen(lastName, 150, "LastName", "Sobrenome deve conter no máximo 150 caracteres")
           );
 
 
