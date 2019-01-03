@@ -44,10 +44,18 @@ A seguir vamos estudar cada um dos 5 príncipios que compõem o SOLID.
 
 
 
-Referências:
+### Referências:
+
 Princípios, Padrões e Práticas Ágeis em C# (Português) por Robert Martin (Autor),‎ Micah Martin (Autor)
+
 Criando Domínios Ricos : PARTE 2 - PRINCÍPIOS SOLID - http://player.balta.io/#/courses/1934-B
+
+Curso SOLID com C#: Orientação a Objetos com C# - https://cursos.alura.com.br/course/orientacao-a-objetos-avancada-e-principios-solid-csharp
+
 Princípios SOLID - http://www.macoratti.net/11/05/pa_solid.htm
+
 Orientação a Objeto – SOLID - https://www.net.br/2013/04/orientacao-a-objeto-solid/
+
 Clean Code – Uncle Bob
+
 Wikipedia - https://pt.wikipedia.org/wiki/SOLID
