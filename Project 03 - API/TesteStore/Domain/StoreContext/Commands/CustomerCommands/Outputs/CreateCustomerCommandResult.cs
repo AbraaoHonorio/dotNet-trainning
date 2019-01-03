@@ -5,20 +5,16 @@ namespace TesteStore.Domain.StoreContext.Commands.CustomerCommands.Outputs
 { 
    public class CreateCustomerCommandResult : ICommandResult
    {
-
-        public CreateCustomerCommandResult() { }
-        public CreateCustomerCommandResult(Guid id, string name, string email)
+        public CreateCustomerCommandResult(bool success, string message, object data)
         {
-            this.id = id;
-            this.Name = name;
-            this.Email = email;
+            this.Success = success;
+            this.Message = message;
+            this.Data = data;
         }
 
-        public Guid id { get; set; }
-        public string Name { get; set; }
-        public string Email { get; set; }
-       
-
-   }
+        public bool Success { get; set; }
+        public string Message { get; set; }
+        public object Data { get; set; }
+    }
 
 }

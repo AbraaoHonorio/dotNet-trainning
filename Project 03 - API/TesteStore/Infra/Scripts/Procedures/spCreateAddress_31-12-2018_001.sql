@@ -1,8 +1,8 @@
 DROP PROCEDURE IF EXISTS spCreateAddress;
 DELIMITER $$
 CREATE PROCEDURE spCreateAddress
- (	IN IdP INT, 
-	IN CustomerIdP INT,
+ (	IN IdP char(36), 
+	IN CustomerIdP char(36),
 	IN NumberP VARCHAR(10),
 	IN ComplementP VARCHAR(40), 
 	IN DistrictP  VARCHAR(60),

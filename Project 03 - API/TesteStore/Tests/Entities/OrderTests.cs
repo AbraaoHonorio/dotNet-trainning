@@ -9,12 +9,12 @@ namespace TesteStore.Tests.Entities
     [TestClass]
     public class OrderTests
     {
-        private Customer _customer;
-        private Order _order;
-        private Product _mouse;
-        private Product _monitor;
-        private Product _chair;
-        private Product _keyboard;
+        private readonly Customer _customer;
+        private readonly Order _order;
+        private readonly Product _mouse;
+        private readonly Product _monitor;
+        private readonly Product _chair;
+        private readonly Product _keyboard;
 
 
         public OrderTests()

@@ -1,7 +1,7 @@
 DROP PROCEDURE IF EXISTS spCreateCustomer;
 DELIMITER $$
 CREATE PROCEDURE spCreateCustomer
- (	IN IdP INT, 
+ (	IN IdP char(36), 
 	IN FirstNameP VARCHAR(40),
 	IN LastNameP VARCHAR(160),
 	IN DocumentP CHAR(11), 

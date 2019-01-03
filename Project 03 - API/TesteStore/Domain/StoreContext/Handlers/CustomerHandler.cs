@@ -1,4 +1,5 @@
-﻿using FluentValidator;
+﻿using Domain.StoreContext.Commands.CustomerCommands.Outputs;
+using FluentValidator;
 using System;
 using TesteStore.Domain.StoreContext.Commands.CustomerCommands.Inputs;
 using TesteStore.Domain.StoreContext.Commands.CustomerCommands.Outputs;
@@ -27,12 +28,8 @@ namespace TesteStore.Domain.StoreContext.Handlers
             //To do 
             // Verficar se o CPF já existe no BD
 
-            // Verificar se o CPF já existe na base
             if (this._repository.CheckDocument(command.Document))
-            {
                 AddNotification("Document", "Este CPF já está em uso");
-                return null;
-            }
 
 
             // Verificar se o E-mail já existe na base
@@ -41,12 +38,27 @@ namespace TesteStore.Domain.StoreContext.Handlers
 
 
             // Criar os VOs
+            var name = new Name(command.FirstName, command.LastName);
+            var document = new Document(command.Document);
+            var email = new Email(command.Email);
+            var phone = new CellPhone(command.Phone);
 
-            var customer = new Customer(new Name(command.FirstName,command.LastName),new Document("10468306005"),
-                                        new Email("abraao@gmail.com"), new CellPhone("(83) 98753-2222"));
-            
+            // Criar a entidade
+            var customer = new Customer(name, document, email, phone);
+
+            // Validar entidades e VOs
+            AddNotifications(name.Notifications);
+            AddNotifications(document.Notifications);
+            AddNotifications(email.Notifications);
+            AddNotifications(phone.Notifications);
+            AddNotifications(customer.Notifications);
             if (Invalid)
-                return null;
+            {
+                return new CommandResult(
+                    false, 
+                    "Por favor, corrija os campos abaixo",
+                    Notifications);
+            }
             // Persistir o cliente
             this._repository.Save(customer);
 
@@ -54,7 +66,13 @@ namespace TesteStore.Domain.StoreContext.Handlers
             this._emailService.Send(customer.Email.Address, "abraao@gmail.com", "Seja Bem-vindo", "Seja bem-vindo a Teste Store =D");
             AddNotifications(customer.Notifications);
             // Retornar o resultado para tela
-            return new CreateCustomerCommandResult(customer.Id, customer.Name.ToString(), customer.Email.Address);
+            return new CommandResult(true, "Bem vindo ao Testo Store",
+                new 
+                {
+                    customer.Id,
+                    Name = customer.Name.ToString(),
+                    Email = customer.Email.Address
+                });
         }
 
         public ICommandResult Handle(AddAddressCommand command)

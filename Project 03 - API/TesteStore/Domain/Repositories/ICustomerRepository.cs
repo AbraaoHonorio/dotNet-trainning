@@ -1,9 +1,7 @@
-﻿using FluentValidator;
-using System;
-using TesteStore.Domain.StoreContext.Commands.CustomerCommands.Inputs;
-using TesteStore.Domain.StoreContext.Commands.CustomerCommands.Outputs;
+﻿using System;
+using System.Collections.Generic;
 using TesteStore.Domain.StoreContext.Entities;
-using TesteStore.Domain.StoreContext.ValueObjects;
+using TesteStore.Domain.StoreContext.Queries;
 
 namespace TesteStore.Domain.StoreContext.Repositories
 {
@@ -14,6 +12,12 @@ namespace TesteStore.Domain.StoreContext.Repositories
         bool CheckEmail(string email);
 
         void Save(Customer customer);
+
+        CustomerOrdersCountResult GetCustomerOrdersCount(string document);
+        IEnumerable<ListCustomerQueryResult> Get();
+        GetCustomerQueryResult Get(Guid id);
+
+
     }
 }
 

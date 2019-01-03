@@ -2,6 +2,7 @@
 using FluentValidator.Validation;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
@@ -11,10 +12,10 @@ namespace TesteStore.Domain.StoreContext.ValueObjects
     {
         public CellPhone(string digits)
         {
-            Digits = digits;
+            Digits = new String(digits.Where(Char.IsDigit).ToArray());
 
             AddNotifications(new ValidationContract()
-               .IsTrue(IsPhoneNumber(this.Digits), "Document", "Celular inválido")
+               .IsTrue(IsPhoneNumber(digits), "Document", "Celular inválido")
            );
         }
 
