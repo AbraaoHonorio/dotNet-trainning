@@ -2,23 +2,27 @@
 
  O termo SOLID é um acrônimo dos cinco primeiros princípiocs ("five first principles") da programação orientada à objetos e design de código identificados por Robert C. Martin (ou Uncle Bob), destinados a fazer projetos de software mais compreensíveis, flexíveis e de fácil manutenção.
 
-. S – Single Responsibility Principle (SRP): princípio da responsabilidade única;
+ S – Single Responsibility Principle (SRP): princípio da responsabilidade única;
 
-. O – Open Closed Principle (OCP): princípio do aberto/fechado;
+ O – Open Closed Principle (OCP): princípio do aberto/fechado;
 
-. L – Liskov Substituition Principle (LSP): princípio da substituição de Liskov;
+ L – Liskov Substituition Principle (LSP): princípio da substituição de Liskov;
 
-. I – Inteface Segregation Principle (ISP): princípio da segregação de interfaces;
+ I – Inteface Segregation Principle (ISP): princípio da segregação de interfaces;
 
-. D – Dependency Inversion Principle (DIP): princípio da inversão de dependência.
+ D – Dependency Inversion Principle (DIP): princípio da inversão de dependência.
 
 
 ### Os princípios SOLID aplicado visa obter os benefícios da orientação a objetos:
 
 . Seja fácil de se manter, adaptar e se ajustar às alterações de escopo;
+
 . Seja testável e de fácil entendimento;
+
 . Seja extensível para alterações com o menor esforço necessário;
+
 . Que forneça o máximo de reaproveitamento;
+
 . Que permaneça o máximo de tempo possível em utilização.
 
 ### Utilizando os princípios SOLID é possível evitar problemas:
