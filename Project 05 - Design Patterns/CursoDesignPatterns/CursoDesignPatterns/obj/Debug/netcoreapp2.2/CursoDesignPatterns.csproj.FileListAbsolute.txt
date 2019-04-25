@@ -1,0 +1,11 @@
+C:\Users\Abraão\Documents\Visual Studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\netcoreapp2.2\CursoDesignPatterns.deps.json
+C:\Users\Abraão\Documents\Visual Studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\netcoreapp2.2\CursoDesignPatterns.runtimeconfig.json
+C:\Users\Abraão\Documents\Visual Studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\netcoreapp2.2\CursoDesignPatterns.runtimeconfig.dev.json
+C:\Users\Abraão\Documents\Visual Studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\netcoreapp2.2\CursoDesignPatterns.dll
+C:\Users\Abraão\Documents\Visual Studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\netcoreapp2.2\CursoDesignPatterns.pdb
+C:\Users\Abraão\Documents\Visual Studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\netcoreapp2.2\CursoDesignPatterns.csprojAssemblyReference.cache
+C:\Users\Abraão\Documents\Visual Studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\netcoreapp2.2\CursoDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Abraão\Documents\Visual Studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\netcoreapp2.2\CursoDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Abraão\Documents\Visual Studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\netcoreapp2.2\CursoDesignPatterns.AssemblyInfo.cs
+C:\Users\Abraão\Documents\Visual Studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\netcoreapp2.2\CursoDesignPatterns.dll
+C:\Users\Abraão\Documents\Visual Studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\netcoreapp2.2\CursoDesignPatterns.pdb
